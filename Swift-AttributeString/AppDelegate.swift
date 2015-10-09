@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Swift-AttributeString
 //
-//  Created by 刘延峰 on 15/10/9.
+//  Created by FrankLiu on 15/10/9.
 //  Copyright © 2015年 刘大帅. All rights reserved.
 //
 
